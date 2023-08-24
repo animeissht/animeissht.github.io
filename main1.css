@@ -1,0 +1,28 @@
+.box {
+  background-color: white;
+  width: 250px;
+  margin: auto;
+  border-radius: 15px;
+}
+
+#image {
+  inline-size: 85%;
+  max-width: 270px;
+  margin-left: 17px;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+body {
+  background-color: rgb(230, 239, 248);
+}
+
+.improve {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.scan {
+  text-align: center;
+  color: rgb(182, 177, 177);
+  font-family: "Times New Roman", Times, serif;
+}
